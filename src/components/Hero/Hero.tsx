@@ -25,7 +25,7 @@ const DynamicImportedComponent = dynamic(() => import('./MapDetail'), {
   return (
     <div className=" w-[100%]">
     
-        { <DynamicImportedComponent />}
+        {/* { <DynamicImportedComponent />} */}
         <DetailsBar/>
 
     </div>

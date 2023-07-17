@@ -1,8 +1,8 @@
 import React from 'react'
 import Image from 'next/image';
-import img2 from '../../../public/assets/Group 37119.png';
-import img1 from '../../../public/assets/Screenshot 2023-06-24 at 5.28 1.png';
-import img3 from '../../../public/assets/ZV images.png';
+import img2 from 'public/assets/Group 37119.png';
+import img1 from 'public/assets/Screenshot 2023-06-24 at 5.28 1.png';
+import img3 from 'public/assets/ZV images.png';
 
 function About() {
   return (

@@ -1,9 +1,9 @@
 import React from "react";
 import Image from "next/image";
-import seed from "../../../public/assets/Seed Button.png";
-import water from "../../../public/assets/Water Button.png";
-import manure from "../../../public/assets/Compost button.png";
-import extraSeed from "../../../public/assets/seeds 1.png";
+import seed from "public/assets/Seed Button.png";
+import water from "public/assets/Water Button.png";
+import manure from "public/assets/Compost button.png";
+import extraSeed from "public/assets/seeds 1.png";
 
 
 

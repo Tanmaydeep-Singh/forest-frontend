@@ -7,7 +7,7 @@ export default function Home() {
     <>
     <div className="bg-white">
     <h1></h1>
-    {/* <Hero /> */}
+    <Hero />
     <About/>
     <FAQ/>
     </div>
