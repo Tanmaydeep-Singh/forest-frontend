@@ -9,7 +9,7 @@ import extraSeed from "../../../public/assets/seeds 1.png";
 
 function DetailsBar() {
   return (
-    <div className="flex flex-wrap justify-around md:px-28 py-10 bg-[#DEF7E3]">
+    <div className="flex flex-wrap justify-around md:px-28 py-10 bg-[#DEF7E4]">
         <div className="flex flex-wrap">
 
           <div className="m-2 mx-5">
