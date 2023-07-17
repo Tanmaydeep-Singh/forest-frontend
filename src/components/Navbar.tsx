@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { useWeb3Modal } from "@web3modal/react";
 import { useAccount } from "wagmi";
 import Image from "next/image";
-import { Web3Button } from "@web3modal/react";
 import lg from "../../public/assets/Logo.png";
 interface Props {
   icon?: "show" | "hide";
