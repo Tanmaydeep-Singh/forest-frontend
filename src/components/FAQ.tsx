@@ -3,7 +3,7 @@ import FAQBox from './FAQBox'
 
 function FAQ() {
   return (
-    <div className=" bg-[#CEE963] md:px-28 py-10  ">
+    <div className=" bg-[#CEE963] md:px-28 py-10  " id='faq'>
         <h1 className="text-[30px] font-bold px-5" >Frequently Asked Questions  </h1>
         <div className=' grid md:grid-cols-2 items-center justify-center justify-items-center w-[80%] m-auto '>
 

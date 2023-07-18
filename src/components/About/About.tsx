@@ -6,7 +6,7 @@ import img3 from 'public/assets/ZV images.png';
 
 function About() {
   return (
-    <div className=' md:px-28 py-10 w-[80%] m-auto'>
+    <div className=' md:px-28 py-10 w-[80%] m-auto' id='about'>
         <h1 className="text-[30px] font-bold px-5" >About </h1>
 
         <div className=' grid md:grid-cols-2 justify-around p-[20px] '>

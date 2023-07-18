@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <div>
-      <footer className="footer p-10 bg-[#DEF7E3] text-base-content md:px-28 py-10">
+      <footer className="footer p-10 bg-[#DEF7E3] text-base-content md:px-28 py-10" id="contact">
         <div>
           <span className="footer-title">Contact Form</span>
           <a className="link link-hover text-[34px] font-semibold">Let’s Talk </a>
